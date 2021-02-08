@@ -34,7 +34,7 @@ int main()
     int Arr[n] = { 50, 40, 30, 20, 10 };
     int query[q] = { 10, 20, 30, 40, 50, 50, 70, 80, 90, 100 };
 
-    for (int i = 0; i < q; i++) {
+    for (int i = 0; i < q; i++) { 
 
         monk = false;
 
